@@ -1,0 +1,33 @@
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar:horizontal {
+  height: 5px;
+}
+
+*::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 3px #428BCA;
+  -webkit-border-radius: 16px;
+  border-radius: 16px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #428BCA;
+  -webkit-border-radius: 16px;
+  border-radius: 16px;
+}
+
+*::-webkit-scrollbar-button {
+  background-color: transparent;
+  border-radius: 16px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+a {
+  color: inherit;
+}
