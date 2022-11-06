@@ -1,7 +1,7 @@
-# ui-music-media
+# ui-next.js_music-platform
 
 ~~~~
-Приложение реализует сайт С музыкой.
+Приложение реализует интерфес музыкальной платформы.
 ~~~~
 
 > Перед установкой зависимостей и запуском проекта убедитесь, что у вас
@@ -10,8 +10,8 @@
 ## Чтобы развернуть проект необходимо:
 
 ```sh
-$ git clone https://gitlab.infrastructure.iml.ru/marketplace/frontend/ui-lk-seller-china-near.git
-$ cd ui-music-media
+$ git clone https://github.com/egorov-by-egorov/ui-next.js_music-platform.git
+$ cd ui-next.js_music-platform
 $ yarn install
 ```
 
